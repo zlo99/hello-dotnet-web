@@ -29,3 +29,4 @@
 /home/mkranjec/HelloDotnetWeb/obj/Debug/net10.0/HelloDotnetWeb.pdb
 /home/mkranjec/HelloDotnetWeb/obj/Debug/net10.0/HelloDotnetWeb.genruntimeconfig.cache
 /home/mkranjec/HelloDotnetWeb/obj/Debug/net10.0/ref/HelloDotnetWeb.dll
+/home/mkranjec/HelloDotnetWeb/obj/Debug/net10.0/HelloDotnetWeb.sourcelink.json
