@@ -25,7 +25,7 @@ app.MapGet("/", async () =>
         await using var cmd = new NpgsqlCommand("SELECT NOW()", conn);
         var now = await cmd.ExecuteScalarAsync();
 
-        return Results.Ok($"Hello Mario! PostgreSQL time is: {now}");
+        return Results.Ok($"Hello Lovro! PostgreSQL time is: {now}");
     }
     catch (Exception ex)
     {
