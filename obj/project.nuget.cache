@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZqDia0pCwU=",
+  "success": true,
+  "projectFilePath": "/home/mkranjec/HelloDotnetWeb/HelloDotnetWeb.csproj",
+  "expectedPackageFiles": [
+    "/home/mkranjec/.nuget/packages/npgsql/10.0.1/npgsql.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
